@@ -53,7 +53,7 @@ for (let glyph of articleHearts) {
 //------------------------------------------------------------------------------
 // Ignore after this point. Used only for demo purposes
 //------------------------------------------------------------------------------
-
+//
 function mimicServerCall() {
   return new Promise(function(resolve, reject) {
     setTimeout(function() {
